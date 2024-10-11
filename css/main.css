@@ -1,0 +1,138 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v101_473 {
+  width: 393px;
+  height: 852px;
+  background: url("../images/v101_473.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v101_474 {
+  width: 395px;
+  height: 844px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v101_475 {
+  width: 602px;
+  height: 732px;
+  background: url("../images/v101_475.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 116px;
+  left: 103px;
+  overflow: hidden;
+}
+.v101_476 {
+  width: 707px;
+  height: 803px;
+  background: rgba(16,0,0,0.3499999940395355);
+  opacity: 1;
+  position: absolute;
+  top: 116px;
+  left: 167px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v101_478 {
+  width: 395px;
+  height: 242px;
+  background: rgba(157,60,46,1);
+  opacity: 1;
+  position: absolute;
+  top: 118px;
+  left: 0px;
+  overflow: hidden;
+}
+.v101_479 {
+  width: 504px;
+  height: 270px;
+  background: rgba(64,91,73,1);
+  opacity: 1;
+  position: absolute;
+  top: 596px;
+  left: 0px;
+  overflow: hidden;
+}
+.v101_480 {
+  width: 474px;
+  height: 242px;
+  background: rgba(200,177,103,1);
+  opacity: 1;
+  position: absolute;
+  top: 354px;
+  left: 79px;
+  overflow: hidden;
+}
+.v101_534 {
+  width: 112px;
+  color: rgba(0,0,0,0.5);
+  position: absolute;
+  top: 147px;
+  left: 38px;
+  font-family: Rethink Sans;
+  font-weight: Bold Italic;
+  font-size: 150px;
+  opacity: 1;
+  text-align: left;
+}
+.v101_535 {
+  width: 112px;
+  color: rgba(0,0,0,0.5);
+  position: absolute;
+  top: 372px;
+  left: 64px;
+  font-family: Rethink Sans;
+  font-weight: Bold Italic;
+  font-size: 150px;
+  opacity: 1;
+  text-align: left;
+}
+.v101_537 {
+  width: 112px;
+  color: rgba(0,0,0,0.5);
+  position: absolute;
+  top: 627px;
+  left: 8px;
+  font-family: Rethink Sans;
+  font-weight: Bold Italic;
+  font-size: 150px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v101_486 {
+  width: 219px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 52px;
+  left: 21px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
